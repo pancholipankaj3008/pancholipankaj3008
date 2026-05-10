@@ -47,9 +47,9 @@ I am a passionate **Full Stack Developer** from Gujarat, India, dedicated to bui
 
 ## 🛠️ Featured Projects
 
-### 🛒 [eBay Clone](https://github.com/pankaj3008)
-*   **Tech:** Vite, React, Bootstrap.
-*   **Feature:** A high-performance e-commerce layout with responsive navigation and grid-based product displays.
+### 🛒 [NextGen E-commerce ](https://github.com/pancholipankaj3008/NextGen-E-Commerce.git)
+*   **Tech:** React, Node.js, Express.js, MongoDB .
+*   **Feature:** Modern full-stack clothing brand e-commerce platform built with the MERN stack featuring JWT authentication, role-based access control, product variants, wishlist, cart, order management, Cloudinary image uploads, admin dashboard, analytics, and responsive UI.
 
 ### 🍎 [Smart Grocery Manager](https://github.com/pankaj3008)
 *   **Tech:** React, Firebase.
