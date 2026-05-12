@@ -19,7 +19,7 @@
 
 I am a passionate **Full Stack Developer** from Gujarat, India, dedicated to building robust and user-centric web applications. I focus on creating clean, maintainable code and solving complex architectural problems.
 
-- 🔭 **Current Focus:** Perfecting end-to-end MERN applications with **TypeScript**.
+- 🔭 **Current Focus:** Perfecting end-to-end MERN applications with **JavaScript**.
 - 🌱 **Learning:** Deep diving into **System Design** and **Clean Architecture**.
 - 💡 **Philosophy:** "First, solve the problem. Then, write the code."
 - 💬 **Ask me about:** React, Node.js, Firebase, and UI/UX design.
