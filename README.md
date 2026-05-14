@@ -43,21 +43,19 @@ I am a passionate **Full Stack Developer** from Gujarat, India, dedicated to bui
 </div> -->
 
 ---
-
 ## 🛠️ Featured Projects
 
-### 🛒 [NextGen E-commerce ](https://github.com/pancholipankaj3008/NextGen-E-Commerce.git)
-*   **Tech:** React, Node.js, Express.js, MongoDB .
-*   **Feature:** Modern full-stack clothing brand e-commerce platform built with the MERN stack featuring JWT authentication, role-based access control, product variants, wishlist, cart, order management, Cloudinary image uploads, admin dashboard, analytics, and responsive UI.
+### 🛒 [NextGen E-commerce](https://github.com/pancholipankaj3008/NextGen-E-Commerce.git) (In Progress)
+* **Tech:** React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary.
+* **Feature:** Currently developing a scalable full-stack clothing brand e-commerce platform using the MERN stack. Completed the backend with JWT authentication, Role-Based Access Control (RBAC), product & inventory management, admin APIs, analytics APIs, and Cloudinary image uploads. The platform includes features like cart management, wishlist, secure authentication, and order handling, while frontend development with React.js is currently in progress.
 
-### 🍎 [Smart Grocery Manager](https://github.com/pankaj3008)
-*   **Tech:** React, Firebase.
-*   **Feature:** Real-time data sync for household grocery tracking with a focus on efficient UI.
+### 📸 [TK Photography Backend](https://github.com/patel-Jishan/tk-backend)
+* **Tech:** Node.js, Express.js, MongoDB, JWT, REST APIs, Git, GitHub.
+* **Feature:** Freelance backend project developed collaboratively for a photography platform. Built scalable REST APIs, authentication and authorization flow, database operations, backend business logic, and API integrations with a clean and maintainable architecture. Focused on optimized server-side performance, structured code organization, and collaborative development using Git & GitHub workflows.
 
-### ☁️ [Glassmorphism Weather App](https://github.com/pankaj3008)
-*   **Tech:** React, CSS3.
-*   **Feature:** Modern, translucent UI design with dynamic background updates based on weather conditions.
-
+### ☁️ [Weather Application](https://github.com/pankaj3008/WeatherApp.git)
+* **Tech:** React.js, Weather API, CSS3.
+* **Feature:** Responsive weather application developed using React.js and Weather API integration to display real-time weather information including temperature, humidity, wind speed, and weather conditions based on user search. Implemented dynamic UI updates, API handling, and React Hooks (useState, useEffect) for efficient state management and smooth user experience.
 ---
 
 <div align="center">
