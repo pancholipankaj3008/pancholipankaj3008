@@ -49,13 +49,38 @@ I am a passionate **Full Stack Developer** from Gujarat, India, dedicated to bui
 * **Tech:** React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary.
 * **Feature:** Currently developing a scalable full-stack clothing brand e-commerce platform using the MERN stack. Completed the backend with JWT authentication, Role-Based Access Control (RBAC), product & inventory management, admin APIs, analytics APIs, and Cloudinary image uploads. The platform includes features like cart management, wishlist, secure authentication, and order handling, while frontend development with React.js is currently in progress.
 
-### 📸 [TK Photography Backend](https://github.com/patel-Jishan/tk-backend)
-* **Tech:** Node.js, Express.js, MongoDB, JWT, REST APIs, Git, GitHub.
-* **Feature:** Freelance backend project developed collaboratively for a photography platform. Built scalable REST APIs, authentication and authorization flow, database operations, backend business logic, and API integrations with a clean and maintainable architecture. Focused on optimized server-side performance, structured code organization, and collaborative development using Git & GitHub workflows.
+* **Links:**
 
-### ☁️ [Weather Application](https://github.com/pankaj3008/WeatherApp.git)
+* **🔗 Repository:** https://github.com/pancholipankaj3008/NextGen-E-Commerce.git
+
+### 📸 [TK Photography (Freelance Project)](https://www.tkmomentscapture.com)
+* **Tech:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, REST APIs.
+* **Feature:** Full-stack photography platform developed for a client. Built responsive frontend interfaces, integrated REST APIs, implemented secure JWT authentication, and collaborated using Git & GitHub. Focused on performance, maintainability, and seamless user experience.
+
+* **Links:**
+
+* **🔗 Frontend:** https://github.com/devspheretech01-dotcom/tkmomentscapture
+* **🔗 Backend:** https://github.com/patel-Jishan/tk-backend
+* **🌐 Live Demo:** https://www.tkmomentscapture.com
+
+### 📸 [Sunelite Pharma (Freelance Project)](https://sunelitepharma.com)
+* **Tech:** RReact.js, Tailwind CSS, Firebase, Cloudinary.
+* **Feature:** A professional pharmaceutical website focused on clear product presentation, company credibility, responsive layouts, and a clean user experience for visitors across devices.
+
+* **Links:**
+
+* **🔗 Repository:** https://github.com/devspheretech01-dotcom/SunElitePharma
+
+* **🌐 Live Demo:** https://sunelitepharma.com
+
+### ☁️ [Weather Application](https://weather-app-sigma-five-80.vercel.app/)
 * **Tech:** React.js, Weather API, CSS3.
 * **Feature:** Responsive weather application developed using React.js and Weather API integration to display real-time weather information including temperature, humidity, wind speed, and weather conditions based on user search. Implemented dynamic UI updates, API handling, and React Hooks (useState, useEffect) for efficient state management and smooth user experience.
+
+* **Links:**
+
+* **🔗 Repository:** https://github.com/pancholipankaj3008/Weather-App-.git
+* **🌐 Live Demo:** https://weather-app-sigma-five-80.vercel.app/
 ---
 
 <div align="center">
