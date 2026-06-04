@@ -64,7 +64,7 @@ I am a passionate **Full Stack Developer** from Gujarat, India, dedicated to bui
 * **🌐 Live Demo:** https://www.tkmomentscapture.com
 
 ### 📸 [Sunelite Pharma (Freelance Project)](https://sunelitepharma.com)
-* **Tech:** RReact.js, Tailwind CSS, Firebase, Cloudinary.
+* **Tech:** React.js, Tailwind CSS, Firebase, Cloudinary.
 * **Feature:** A professional pharmaceutical website focused on clear product presentation, company credibility, responsive layouts, and a clean user experience for visitors across devices.
 
 * **Links:**
@@ -74,7 +74,7 @@ I am a passionate **Full Stack Developer** from Gujarat, India, dedicated to bui
 * **🌐 Live Demo:** https://sunelitepharma.com
 
 ### ☁️ [Weather Application](https://weather-app-sigma-five-80.vercel.app/)
-* **Tech:** React.js, Weather API, CSS3.
+* **Tech:** React.js, Weather API, React Hooks, Responsive Design.
 * **Feature:** Responsive weather application developed using React.js and Weather API integration to display real-time weather information including temperature, humidity, wind speed, and weather conditions based on user search. Implemented dynamic UI updates, API handling, and React Hooks (useState, useEffect) for efficient state management and smooth user experience.
 
 * **Links:**
