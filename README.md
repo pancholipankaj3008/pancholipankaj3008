@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,40,80&height=200&section=header&text=Pankaj%20%7C%20Full%20Stack%20Developer&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20MERN%20Solutions&descAlignY=58&descSize=18" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-dev3008/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pankajpancholi-portfolio.vercel.app)
 
 <br/>
 
