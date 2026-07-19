@@ -32,13 +32,13 @@ const pankaj = {
   location: "Gujarat, India",
   role: "Full Stack Developer",
   stack: ["React", "Redux Toolkit", "Node.js", "Express", "MongoDB"],
-  currentFocus: "Perfecting end-to-end MERN applications with JavaScript",
+  currentFocus: "Building AI-powered MERN applications with JavaScript",
   philosophy: "First, solve the problem. Then, write the code.",
-  askMeAbout: ["React", "Node.js", "Firebase", "UI/UX Design"],
+  
 };
 ```
 
-- 🔭 **Current Focus:** Perfecting end-to-end MERN applications with **JavaScript**
+- 🔭 **Current Focus:** Building AI-powered MERN applications with **JavaScript**
 - 💡 **Philosophy:** *"First, solve the problem. Then, write the code."*
 - 💬 **Ask me about:** React, Node.js, Firebase, and UI/UX design
 - ⚡ **Fun fact:** I'd rather refactor a messy component at midnight than leave it for tomorrow
@@ -67,7 +67,7 @@ const pankaj = {
 
 ## 🛠️ Featured Projects
 
-### 🛒 [NextGen E-commerce](https://github.com/pancholipankaj3008/NextGen-E-Commerce.git)
+### 🛒 NextGen E-commerce
 
 A full-stack MERN clothing e-commerce platform built with React.js, Node.js, Express.js, and MongoDB. Implements JWT authentication, Role-Based Access Control (RBAC), product & inventory management, dynamic product variants, an admin dashboard, cart, wishlist, checkout, order management, a coupon system, newsletter subscriptions, an analytics dashboard, and Cloudinary image uploads across fully responsive interfaces. Payment gateway integration is currently pending.
 
@@ -79,6 +79,24 @@ A full-stack MERN clothing e-commerce platform built with React.js, Node.js, Exp
 </p>
 
 <br/>
+
+### 🤖 AI Resume Builder
+
+A full-stack AI-powered resume builder built with the MERN stack. Users can create, edit, and manage professional resumes with multiple modern templates, AI-assisted content generation using Google Gemini, secure JWT authentication, PDF export powered by Puppeteer while preserving hyperlinks, and responsive resume previews. Features include cookie-based authentication, Redux Toolkit state management, template switching, resume CRUD operations, and production deployment.
+
+`React.js` · `Redux Toolkit` · `Node.js` · `Express.js` · `MongoDB` · `Google Gemini AI` · `Puppeteer` · `JWT` · `Tailwind CSS`
+
+<p>
+  <a href="https://github.com/pancholipankaj3008/AI-Powered-Resume-Builder.git">
+    <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://ai-powered-resume-builder-three.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
 
 ### 📸 TK Photography <sub>(Freelance Project)</sub>
 
