@@ -40,7 +40,7 @@ const pankaj = {
 
 - 🔭 **Current Focus:** Building AI-powered MERN applications with **JavaScript**
 - 💡 **Philosophy:** *"First, solve the problem. Then, write the code."*
-- 💬 **Ask me about:** React, Node.js, Firebase, and UI/UX design
+- 💬 **Ask me about:** React, Redux Toolkit, Node.js, MongoDB, and REST APIs
 - ⚡ **Fun fact:** I'd rather refactor a messy component at midnight than leave it for tomorrow
 
 ---
